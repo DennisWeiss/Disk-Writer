@@ -1,0 +1,6 @@
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\bin\Debug\DiskWriter.exe.config
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\obj\Debug\DiskWriter.csprojResolveAssemblyReference.cache
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\bin\Debug\DiskWriter.exe
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\bin\Debug\DiskWriter.pdb
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\obj\Debug\DiskWriter.exe
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\obj\Debug\DiskWriter.pdb

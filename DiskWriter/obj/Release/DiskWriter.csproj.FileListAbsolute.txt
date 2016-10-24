@@ -1,0 +1,5 @@
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\bin\Release\DiskWriter.exe.config
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\bin\Release\DiskWriter.exe
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\bin\Release\DiskWriter.pdb
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\obj\Release\DiskWriter.exe
+c:\users\weiss\documents\visual studio 2015\Projects\DiskWriter\DiskWriter\obj\Release\DiskWriter.pdb
